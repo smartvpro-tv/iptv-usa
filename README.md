@@ -131,6 +131,7 @@ Firestick for simplicity and price. Nvidia Shield or a mid-range Android TV box 
 ## Further reading
 
 - [How to choose an IPTV service in the USA: a practical 2026 checklist](how-to-choose-an-iptv-service-in-the-usa.md)
+- [Download this checklist as a PDF](https://smartvpro1.s3.us-east-2.amazonaws.com/iptv-usa-checklist-2026.pdf)
 - [What is IPTV](https://smartvpro.com/what-is-iptv/)
 - [Best IPTV USA 2026](https://smartvpro.com/best-iptv-usa/)
 - [IPTV for multiple devices](https://smartvpro.com/iptv-for-multiple-devices-usa-guide/)
