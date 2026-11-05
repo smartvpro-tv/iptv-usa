@@ -82,6 +82,8 @@ Use this list with any seller, including us:
 
 Red flags: lifetime subscriptions, prices far below everyone else, no trial, no published channel list, anonymous Telegram-only support.
 
+A shorter, step-by-step version of this checklist: [How to choose an IPTV service in the USA](how-to-choose-an-iptv-service-in-the-usa.md).
+
 ## Common US channel categories
 
 A typical US-oriented IPTV package is organised like this:
@@ -128,6 +130,7 @@ Firestick for simplicity and price. Nvidia Shield or a mid-range Android TV box 
 
 ## Further reading
 
+- [How to choose an IPTV service in the USA: a practical 2026 checklist](how-to-choose-an-iptv-service-in-the-usa.md)
 - [What is IPTV](https://smartvpro.com/what-is-iptv/)
 - [Best IPTV USA 2026](https://smartvpro.com/best-iptv-usa/)
 - [IPTV for multiple devices](https://smartvpro.com/iptv-for-multiple-devices-usa-guide/)
