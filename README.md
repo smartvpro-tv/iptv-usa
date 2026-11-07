@@ -65,6 +65,8 @@ Which app for which device: [awesome-iptv-players](https://github.com/smartvpro-
 
 Wi-Fi is the main cause of buffering in US homes, not the plan. An Ethernet cable to the TV or Firestick (via a $10 adapter) solves most of it. More in [iptv-troubleshooting](https://github.com/smartvpro-tv/iptv-troubleshooting).
 
+To measure the real speed between your home and the stream itself (not a nearby speed-test server), use the free [iptv-toolkit](https://github.com/smartvpro-tv/iptv-toolkit) and follow the [IPTV USA testing guide](https://smartvpro-tv.github.io/iptv-toolkit/usa.html).
+
 ## What to check before buying an IPTV subscription
 
 Use this list with any seller, including us:
