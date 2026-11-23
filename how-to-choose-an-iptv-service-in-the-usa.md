@@ -1,6 +1,6 @@
 # How to choose an IPTV service in the USA: a practical 2026 checklist
 
-*Written by the team behind [SmartVPro](https://smartvpro.com/). We sell a subscription, so we are not neutral. This is the checklist we would give a friend in the US who asked which IPTV service to pick, and it works with any seller, including us.*
+*Written by the team behind [SmartVPro](https://smartvpro.com/) (now at [usa.smartvpro.com](https://usa.smartvpro.com/)). We sell a subscription, so we are not neutral. This is the checklist we would give a friend in the US who asked which IPTV service to pick, and it works with any seller, including us.*
 
 Last updated: November 2026
 
@@ -61,6 +61,7 @@ Read up on the rules before you buy. We wrote a plain guide: [how to verify a pr
 
 - Plans and how to subscribe: [IPTV subscribe](https://smartvpro.com/iptv-subscribe/)
 - What IPTV costs in the US: [IPTV subscription price](https://smartvpro.com/iptv-subscription-price/)
+- Our new US site: [IPTV USA Subscription plans](https://usa.smartvpro.com/shop/)
 - The longer, vendor-neutral guide in this repository: [IPTV in the United States](README.md)
 
 ---

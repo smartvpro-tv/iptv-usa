@@ -138,6 +138,7 @@ Firestick for simplicity and price. Nvidia Shield or a mid-range Android TV box 
 - [Best IPTV USA 2026](https://smartvpro.com/best-iptv-usa/)
 - [IPTV for multiple devices](https://smartvpro.com/iptv-for-multiple-devices-usa-guide/)
 - [IPTV free trial](https://smartvpro.com/iptv-trial/)
+- New SmartVPro US site: [IPTV USA Subscription](https://usa.smartvpro.com/) · [IPTV provider USA](https://usa.smartvpro.com/iptv-provider/) · [$2 IPTV trial](https://usa.smartvpro.com/iptv-trial/)
 - [Video tutorials on YouTube](https://www.youtube.com/@SmartVProTV)
 - Sister guides: [iptv-uk](https://github.com/smartvpro-tv/iptv-uk), [iptv-canada](https://github.com/smartvpro-tv/iptv-canada), [iptv-nederland](https://github.com/smartvpro-tv/iptv-nederland)
 
